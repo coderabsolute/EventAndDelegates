@@ -1,4 +1,4 @@
-### Event & Delegate Example!
+### Video & Voice Encoding Example!
 
 This is just an example or a shell to write multiple wrappers around the observer pattern without actually breaking the concrete implementation of a service concept.
 
